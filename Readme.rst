@@ -1,6 +1,10 @@
 Hitchhiker's Guide to Python
 ============================
 
+.. image:: https://badges.gitter.im/hepingtao/python-guide.svg
+   :alt: Join the chat at https://gitter.im/hepingtao/python-guide
+   :target: https://gitter.im/hepingtao/python-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 **Python Best Practices Guidebook**
 
 -----------
